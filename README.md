@@ -1,3 +1,3 @@
 # Pyro Info
 
-LatestVelocityVersion = "0.7.8"
+LatestUIVersion = "0.1.0"
